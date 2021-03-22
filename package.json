@@ -2,7 +2,17 @@
   "name": "blog",
   "version": "1.0.0",
   "description": "My blog",
-  "keywords": [],
+  "keywords": [
+      "behavior",
+      "cinema",
+      "code",
+      "cryptography",
+      "engineering",
+      "music",
+      "philosophy",
+      "politics",
+      "programming"
+  ],
   "main": "src/index.js",
   "dependencies": {
     "react": "17.0.1",

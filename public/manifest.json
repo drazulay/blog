@@ -8,13 +8,20 @@
       "type": "image/x-icon"
     },
     {
-      "src": "logo64.png",
+      "src": "logo96.png",
       "type": "image/png",
-      "sizes": "64x64"
+      "sizes": "96x96"
+    },
+    {
+      "src": "logo144.png",
+      "type": "image/png",
+      "sizes": "144x144"
     }
   ],
-  "start_url": ".",
-  "display": "standalone",
+  "display": "minimal-ui",
+  "Scope": "/",
+  "start_url": "/",
   "theme_color": "#e6e6fa",
-  "background_color": "#090734"
+  "background_color": "#090734",
+  "splash_pages": null
 }

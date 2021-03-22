@@ -6,7 +6,15 @@ import About from "./routes/about";
 
 import { BrowserRouter as Router, Route, Link } from "react-router-dom";
 
-import "./styles.css";
+import './styles.css';
+
+if ('serviceWorker' in navigator) {
+    navigator.serviceWorker.register('/service-worker.js').then(function(registration) {
+        console.log('Registered ServiceWorker');
+    }).catch(function(err) {
+        console.log('Error Registering ServiceWorker: ', err);
+    });
+}
 
 const App = () => {
   return (
