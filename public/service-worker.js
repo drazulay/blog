@@ -1,4 +1,4 @@
-var CACHE_NAME = 'danielazulay.eu';
+var CACHE_NAME = 'danielazulay';
 var urlsToCache = [
   '/',
   '/logo96.png',
