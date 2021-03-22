@@ -12,7 +12,7 @@ class About extends React.Component {
           My primary professional focus is Magento2 back-end development.
         </p>
         <p>
-          Personal interests are broadly covered by terms such as
+          My personal interests are broadly covered by terms such as
           {" "}
           <span className="QuotedList">
             engineering, cryptography, politics, behavior, philosophy, music, cinema
