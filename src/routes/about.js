@@ -22,18 +22,14 @@ class About extends React.Component {
           There's too much interesting stuff out there and a person's follies are bound by a certain bandwidth.
         </p>
         <p>
-          Feel free to
-          {" "}
           <span className="PostTitle">
-            <a href="mailto:daniel@danielazulay.eu?subject=Site Contact">contact me</a>
+            &#128231;{" "}<a href="mailto:daniel.reubin.azulay@pm.me?subject=Site Contact">pm.me</a>
           </span>
-          .
         </p>
         <p>
           <span className="PostTitle">
-            &#128273;{" "}<a href="https://keybase.io/drazulay">{"577E F33D E691 F99E"}</a>
+            &#128273;{" "}<a href="https://keybase.io/drazulay">577E F33D E691 F99E</a>
           </span>
-          
         </p>
     </div>;
   }
