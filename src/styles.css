@@ -1,0 +1,70 @@
+body {
+  text-align: left;
+  background: #090734;
+  color: #e6e6fa;
+  font-family: monospace;
+}
+
+p {
+  font-size: 19px;
+  line-height: 2;
+  padding-top: 0px;
+  padding-bottom: 6px;
+}
+
+h1 {
+  color: mediumvioletred;
+}
+
+.AppHeader {
+  text-align: center;
+}
+
+.App {
+  margin: auto;
+  max-width: 500px;
+  padding: 20px;
+  text-align: left;
+  width: 85%;
+}
+
+.AppTitle {
+  color: yellow;
+}
+
+.MenuItem {
+  color: #aa9b9b;
+  font-size: 20px;
+  font-weight: bold;
+  padding: 10px;
+  text-decoration: none;
+}
+
+.PostsContainer {
+}
+
+.Post {
+  background: #03021c;
+  border-radius: 10px;
+  border: 1px #000 solid;
+  color: darkorchid;
+  cursor: pointer;
+  line-height: 1.8;
+  margin-top: 15px;
+  outline: none;
+  padding: 0 0 0px 10px;
+  white-space: pre-line;
+}
+
+.PostTitle {
+  color: yellowgreen;
+  font-weight: bold;
+}
+
+.PostBody {
+  color: orchid;
+}
+
+.QuotedList {
+  font-style: italic;
+}

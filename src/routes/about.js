@@ -1,0 +1,36 @@
+import React from "react";
+
+class About extends React.Component {
+  render() {
+    return <div>
+        <h1>Hello.</h1>
+        <p>
+          My name is <strong>Daniel Azulay</strong>.
+        </p>
+        <p>
+          Writing code is my passion.
+          My primary professional focus is Magento2 back-end development.
+        </p>
+        <p>
+          Personal interests are broadly covered by terms such as
+          {" "}
+          <span className="QuotedList">
+            engineering, cryptography, politics, behavior, philosophy, music, cinema
+          </span>..
+        </p>
+        <p>
+          There's too much interesting stuff out there and a person's follies are bound by a certain bandwidth.
+        </p>
+        <p>
+          Feel free to
+          {" "}
+          <span className="PostTitle">
+            <a href="mailto:daniel@danielazulay.eu?subject=Site Contact">contact me</a>
+          </span>
+          .
+        </p>
+    </div>;
+  }
+}
+
+export default About;
