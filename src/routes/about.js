@@ -29,6 +29,12 @@ class About extends React.Component {
           </span>
           .
         </p>
+        <p>
+          <span className="PostTitle">
+            &#128273;{" "}<a href="https://keybase.io/drazulay">{"577E F33D E691 F99E"}</a>
+          </span>
+          
+        </p>
     </div>;
   }
 }
