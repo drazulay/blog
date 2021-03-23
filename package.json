@@ -4,18 +4,19 @@
   "description": "My blog",
   "license": "MIT",
   "keywords": [
-      "behavior",
-      "cinema",
-      "code",
-      "cryptography",
-      "engineering",
-      "music",
-      "philosophy",
-      "politics",
-      "programming"
+    "behavior",
+    "cinema",
+    "code",
+    "cryptography",
+    "engineering",
+    "music",
+    "philosophy",
+    "politics",
+    "programming"
   ],
   "main": "src/index.js",
   "dependencies": {
+    "normalize.css": "^8.0.1",
     "react": "17.0.1",
     "react-dom": "17.0.1",
     "react-router-dom": "5.2.0",

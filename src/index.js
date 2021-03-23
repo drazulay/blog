@@ -6,6 +6,7 @@ import About from "./routes/about";
 
 import { BrowserRouter as Router, Route, Link } from "react-router-dom";
 
+import 'normalize.css';
 import './styles.css';
 
 if ('serviceWorker' in navigator) {

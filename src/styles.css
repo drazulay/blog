@@ -1,7 +1,7 @@
 body {
   text-align: left;
-  background: #090734;
-  color: #e6e6fa;
+  background: #0e0001fc;
+  color: #dededee0;
   font-family: monospace;
 }
 
@@ -22,7 +22,6 @@ h1 {
 
 .App {
   margin: auto;
-  max-width: 500px;
   padding: 20px;
   text-align: left;
   width: 85%;
@@ -44,7 +43,7 @@ h1 {
 }
 
 .Post {
-  background: #03021c;
+  background: #2d2871f0;
   border-radius: 10px;
   border: 1px #000 solid;
   color: darkorchid;

@@ -21,7 +21,7 @@
   "display": "minimal-ui",
   "Scope": "/",
   "start_url": "/",
-  "theme_color": "#e6e6fa",
+  "theme_color": "#ffffffe0",
   "background_color": "#090734",
   "splash_pages": null
 }
