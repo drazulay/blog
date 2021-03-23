@@ -8,18 +8,10 @@ class About extends React.Component {
           My name is <strong>Daniel Azulay</strong>.
         </p>
         <p>
-          Writing code is my passion.
-          My primary professional focus is Magento2 back-end development.
+          Identity is mysterious. What does it mean to be? Maybe we are defined by what we produce and consume. 
         </p>
         <p>
-          My personal interests are broadly covered by terms such as
-          {" "}
-          <span className="QuotedList">
-            engineering, cryptography, politics, behavior, philosophy, music, cinema
-          </span>..
-        </p>
-        <p>
-          There's too much interesting stuff out there and a person's follies are bound by a certain bandwidth.
+          Writing code is my passion but I have many other interests. Look <a href="/blog">here</a> to see if you share some of them.
         </p>
         <p>
           <span className="PostTitle">
