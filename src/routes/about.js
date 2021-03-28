@@ -20,7 +20,7 @@ class About extends React.Component {
         </p>
         <p>
           <span className="PostTitle">
-            &#128273;{" "}<a href="https://keybase.io/drazulay">577E F33D E691 F99E</a>
+            &#128273;{" "}<a href="https://keybase.io/drazulay">5D54 61A3 9955 2A8A</a>
           </span>
         </p>
     </div>;
