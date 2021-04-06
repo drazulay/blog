@@ -14,3 +14,4 @@ jspm_packages/
 node_modules/
 yarn-debug.log*
 yarn-error.log*
+build.tar.gz
